@@ -70,7 +70,7 @@ Monitor Data on ThingSpeak:
 
 Visit your ThingSpeak channel’s dashboard to view the real-time data being sent from the sensors.
 ## Outputs:
-![image](https://github.com/user-attachments/assets/f392e294-d699-41ba-89d3-80ca5c35a6e3)
+![image](https://github.com/user-attachments/assets/918773cf-653f-4577-9bde-ac988078647f)
 
 
 Sensor Data Visualization: The sensor data will be updated on the ThingSpeak dashboard in real-time.
