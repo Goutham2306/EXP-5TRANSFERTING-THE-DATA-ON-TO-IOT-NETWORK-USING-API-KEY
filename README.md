@@ -75,7 +75,8 @@ Visit your ThingSpeak channel’s dashboard to view the real-time data being sen
 
 Sensor Data Visualization: The sensor data will be updated on the ThingSpeak dashboard in real-time.
 
-![image](https://github.com/user-attachments/assets/d103fac0-f064-4b46-b696-748ea5d07d0e)
+![image](https://github.com/user-attachments/assets/ea63e2f6-25e8-4967-9b6d-764a413d85bf)
+
 
 
 Console Output: The console will print a success message for each data transfer, indicating the status (success or failure).
